@@ -1,0 +1,15 @@
+.b{
+width: 80%;
+font-size: 20px;
+background-color:purple;
+color: aqua;
+}
+body{
+background-color: rgb(14, 255, 163);
+}
+#cam{
+width: 350px;
+height: 350px;
+border: 6px white solid;
+background-color: black;
+}
